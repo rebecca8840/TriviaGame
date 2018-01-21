@@ -1,0 +1,23 @@
+
+
+body {
+
+	font-family: 'Poppins', sans-serif;
+	background-color:;
+}
+
+div {
+  margin: 50px;
+
+}
+
+ul {
+
+	list-style-type: none;
+}
+
+.questions {
+	border-style: solid;
+	border-color: deeppink;
+	margin: 50px;
+}
